@@ -97,7 +97,7 @@ const About = props => {
 
     React.createElement("div", { className: "desc full" },  
     React.createElement("h4", { className: "subtitle" }, "My name is Saifur."),  
-    React.createElement("p", null, "I am a web developer and UX designer live in the beautiful city Narayangang, Dhaka."),  
+    React.createElement("p", null, "I am a web developer and UX designer live in the beautiful city Narayanganj, Dhaka."),  
 
 
 
