@@ -840,7 +840,7 @@ a:active {
 
 #projects {
   min-height: 100vh;
-  font-size: 35px;
+  font-size: 30px;
   position: relative;
   background: #f0f0f0;
   background: linear-gradient(215deg, #f0f0f0 0%,#fafafa 100%);
